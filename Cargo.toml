@@ -13,6 +13,7 @@ members = [
 "examples/udp-service-client",
 "hal/rust-hal/rust-uart",
 "kubos-build-helper",
+"libs/file-protocol",
 "services/comms-service",
 "services/file-service-rust",
 "services/kubos-service",
